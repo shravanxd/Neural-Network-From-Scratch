@@ -24,13 +24,13 @@ It is trained using:
 
 ## **Installation**
 ### **Prerequisites**
-- Python 3.x
+- Python 3.12.3
 - NumPy
 
 ### **Setup**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR-GITHUB-USERNAME/Neural-Network-From-Scratch.git
+   git clone https://github.com/shravanxd/Neural-Network-From-Scratch.git
    cd Neural-Network-From-Scratch
 
 2. Install dependencies:
